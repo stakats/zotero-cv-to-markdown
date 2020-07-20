@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 Panflute filter that converts a zotero.org CV to markdown for a Jekyll blog page
 Usage:
